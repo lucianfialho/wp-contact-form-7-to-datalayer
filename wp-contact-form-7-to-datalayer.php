@@ -26,7 +26,7 @@ class WPCF7TODATALAYER {
     {
         wp_enqueue_script(
             'wp-contact-form-7-to-datalayer',
-            plugin_dir_url(__FILE__) . 'wpcf7todatalayer.js',
+            plugin_dir_url(__FILE__) . 'dist/index.js',
             array(),
             1,
             true

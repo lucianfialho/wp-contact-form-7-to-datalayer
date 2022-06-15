@@ -1,0 +1,24 @@
+{
+	"name": "contact-form-7-to-wp",
+	"version": "1.0.0",
+	"description": "Plugin to mensure Contact form 7 events in Google Tag Manager custom events",
+	"private": true,
+	"scripts": {
+		"watch": "wp-scripts start index.js --output-path=dist",
+		"build": "wp-scripts build index.js --output-path=dist",
+		"packages-update": "wp-scripts packages-update"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/takayukister/contact-form-7.git"
+	},
+	"author": "lucianfialhobp",
+	"license": "GPL-2.0-only",
+	"bugs": {
+		"url": "https://github.com/lucianfialhop/wp-contact-form-7-to-datalayer/issues"
+	},
+	"homepage": "https://github.com/takayukister/wp-contact-form-7-to-datalayer#readme",
+	"devDependencies": {
+		"@wordpress/scripts": "^23.0.0"
+	}
+}
