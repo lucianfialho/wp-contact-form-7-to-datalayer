@@ -6,3 +6,4 @@ Today, in the way that sending information is implemented within the Contact For
 
 This solution allows through a feature called Google Tag Manager custom event that it is possible to measure the form submission behavior.
 
+![image](https://user-images.githubusercontent.com/3296497/173959973-170da693-1543-42e5-976a-78dc503b89fa.png)
